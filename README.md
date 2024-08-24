@@ -1,6 +1,6 @@
-This repository contains presentation metarial of Statistic Course at Harran University. More Info  @  https://web.harran.edu.tr/bilgisayar/en/
+This repository contains the presentation material of the Vocational English I Course at Harran University. More Info  @  https://web.harran.edu.tr/bilgisayar/en/
 
-The repository is maintained by Ercan Ezin.
+Ercan Ezin maintains the repository.
 
 <hr>
 <p align="center">
