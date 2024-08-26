@@ -1,8 +1,13 @@
-This repository contains the presentation material of the Vocational English I Course at Harran University. More Info  @  https://web.harran.edu.tr/bilgisayar/en/
+## ABOUT THE COURSE 
+This repository contains the presentation material of the `Vocational English I` Course at _Harran University_. More Info  @  https://web.harran.edu.tr/bilgisayar/en/
 
-Ercan Ezin maintains the repository.
+**`Dr Ercan Ezin`** maintains the repository. Please reach out to him if you have any questions.
+
+www.ercanezin.com
 
 <hr>
+
+### CREDIT
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
